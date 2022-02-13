@@ -7,7 +7,7 @@ Include camera's with status active only
 
 
 ## Run program and output -
-
+```
 student@bchd:~$ go run alta3research-gocert01.go 
 Camera --> image count
 MAST   -->  838
@@ -20,3 +20,4 @@ NAVCAM -->  10
 PANCAM -->  0
 MINITES-->  0
 student@bchd:~$ 
+```
